@@ -11,7 +11,7 @@ const Footer = () => {
           <div className="mb-6 md:mb-0">
             <h3 className="text-lg font-semibold">Prince</h3>
             <p className="text-gray-400 text-sm">
-              Web Developer
+              Software Developer
             </p>
           </div>
           
@@ -19,7 +19,7 @@ const Footer = () => {
             <a href="https://github.com/trustedprince01" className="text-gray-400 hover:text-white transition-colors" aria-label="GitHub">
               <Github className="h-5 w-5" />
             </a>
-            <a href="#" className="text-gray-400 hover:text-white transition-colors" aria-label="LinkedIn">
+            <a href="https://www.linkedin.com/in/chibuzor-prince-68976b35b/" className="text-gray-400 hover:text-white transition-colors" aria-label="LinkedIn">
               <Linkedin className="h-5 w-5" />
             </a>
             <a href="https://x.com/JokerElon" className="text-gray-400 hover:text-white transition-colors" aria-label="Twitter">
