@@ -4,11 +4,11 @@ const StructuredData: FC = () => {
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "Person",
-    "name": "chibuzor prince soulhacker trusted prince",
+    "name": "Chibuzor Prince",
     "url": "https://chibuzorprince.netlify.app/",
-    "jobTitle": "Web Developer & Software Developer & Full Stack Developer & App Developer",
-    "image": "https://yourportfolio.com/profile.jpg",
-    "description": "Full-stack web developer specializing in React, TypeScript, and modern web technologies",
+    "jobTitle": "Full Stack Developer",
+    "image": "https://chibuzorprince.netlify.app/profile.jpg",
+    "description": "Full Stack Developer specializing in React, TypeScript, and modern web technologies",
     "sameAs": [
       "https://github.com/trustedprince01",
       "https://www.linkedin.com/in/chibuzor-prince-68976b35b/",
@@ -21,8 +21,7 @@ const StructuredData: FC = () => {
       "Node.js",
       "UI/UX Design",
       "Full Stack Development",
-      "Software Development",
-      "Python"
+      "Software Development"
     ]
   };
 

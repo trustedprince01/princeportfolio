@@ -12,3 +12,4 @@ Allow: /
 
 User-agent: *
 Allow: /
+Sitemap: https://chibuzorprince.netlify.app/sitemap.xml
