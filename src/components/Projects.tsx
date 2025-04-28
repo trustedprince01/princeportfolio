@@ -58,7 +58,7 @@ const projects = [
     description: "User interface design for a Nike display page",
     tags: ["Figma", "UI/UX", "Prototype"],
     category: "UI/UX",
-    image: "/images/nike.png",
+    image: "/images/nike.jpg",
     githubUrl: "#",
     demoUrl: "https://www.figma.com/proto/jMvcGyY4inOFNUATMTuh61/NIKE-DESIGN?page-id=0%3A1&node-id=4-89&viewport=-254%2C4809%2C0.27&t=UW3hZOBJyuaFFLSF-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4%3A46" 
   },
@@ -78,7 +78,7 @@ const projects = [
     description: "User interface design for a Nike display page",
     tags: ["Figma", "UI/UX", "Prototype"],
     category: "UI/UX",
-    image: "/images/nike2.svg",
+    image: "/images/nike2.jpg",
     githubUrl: "#",
     demoUrl: "https://www.figma.com/proto/uSF1rlEbs7cmsOHkRJ5ENl/NIke-shoe?node-id=11-2&t=lQwi4Zbt4mcosMZz-1" 
   },
@@ -145,7 +145,7 @@ const projects = [
     description: "A front-end design for food ordering for backend ",
     tags: ["React", "Tailwind CSS", "Html and css"],
     category: "Frontend",
-    image:"/images/foo.png",
+    image:"/images/foo.jpg",
     githubUrl: "https://github.com/trustedprince01/fast-food",
     demoUrl: "https://fastyfoo.netlify.app/"
   },
@@ -154,7 +154,7 @@ const projects = [
     description: "A design for a Apple vision pro",
     tags: ["Figma", "UI/UX", "Prototype"],
     category: "UI/UX",
-    image: "/images/applevision.png",
+    image: "/images/applevision.jpg",
     githubUrl: "#",
     demoUrl: "https://www.figma.com/proto/UZC6sqVtzVvwr8VRv7OwZx/APPLE-VISON-PRO?node-id=0-1&t=eNW7Sp9qjQTpcJRH-1" 
   },
