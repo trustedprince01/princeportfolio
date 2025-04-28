@@ -49,20 +49,20 @@ const About = () => {
             className="text-center md:text-left"
           >
             <h3 className="text-xl sm:text-2xl font-semibold mb-4">Who I Am</h3>
-<p className="text-sm sm:text-base text-gray-400 mb-6">
-  I’m a web developer driven by curiosity and creativity, blending design and logic to build sleek, responsive, and meaningful digital experiences. My current stack includes React, TypeScript, and modern UI frameworks — tools I use to bring ideas to life in ways that feel effortless to the user.
-</p>
-<p className="text-sm sm:text-base text-gray-400 mb-6">
-  I’m constantly exploring new tech, learning fast, and growing faster. I don’t just build — I evolve. And if you’re wondering how I handle pressure? 
-</p>
-<blockquote className="border-l-4 border-blue-500 pl-4 italic text-gray-300 mb-6">
-  "I never ask to be judged by my wins — judge me by my losses, because I have so few."
-</blockquote>
-<p className="text-sm sm:text-base text-gray-400">
-  When I’m not coding, you’ll catch me contributing to open-source, sharpening my backend skills, or touching grass and staying balanced beyond the screen.
-</p>
-
-          </motion.div>
+            <p className="text-sm sm:text-base text-gray-400 mb-6">
+              I'm Prince, a web developer driven by curiosity, creativity, and a love for clean, functional design. I specialize in building sleek, responsive digital experiences using 
+              <span className="text-blue-400 font-semibold"> React, Typescript</span> and modern UI frameworks — blending solid logic with smooth user interactions.
+            </p>
+            <p className="text-sm sm:text-base text-gray-400 mb-6">
+              I'm always leveling up — learning new tech, mastering backend systems, and contributing to open-source whenever I can. Growth isn't optional for me. It's my default mode.
+            </p>
+            <blockquote className="border-l-4 border-blue-500 pl-4 italic text-gray-300 mb-6">
+              "Don’t judge me by my wins. Judge me by my losses — because there are so few."
+            </blockquote>
+            <p className="text-sm sm:text-base text-gray-400">
+              When I’m not coding, you’ll find me exploring new ideas, sharpening my backend skills, or touching grass to stay grounded beyond the screen. Let's build something incredible together.
+            </p>
+      </motion.div>
         </div>
       </div>
     </section>
