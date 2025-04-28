@@ -4,6 +4,7 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import StructuredData from './components/StructuredData';
+import Analytics from '@/components/Analytics';
 
 const Index = lazy(() => import("./pages/Index"));
 const NotFound = lazy(() => import("./pages/NotFound"));
@@ -15,6 +16,7 @@ const App = () => (
     <TooltipProvider>
       <StructuredData />
       <Router>
+        <Analytics />
         <Suspense 
           fallback={
             <div className="min-h-screen flex items-center justify-center bg-black">
