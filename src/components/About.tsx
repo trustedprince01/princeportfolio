@@ -50,7 +50,7 @@ const About = () => {
           >
             <h3 className="text-xl sm:text-2xl font-semibold mb-4">Who I Am</h3>
             <p className="text-sm sm:text-base text-gray-400 mb-6">
-              I'm Prince, a web developer driven by curiosity, creativity, and a love for clean, functional design. I specialize in building sleek, responsive digital experiences using 
+              I'm Prince, i'm a web and mobile developer driven by curiosity, creativity, and a love for clean, functional design. I specialize in building sleek, responsive digital experiences using 
               <span className="text-blue-400 font-semibold"> React, Typescript</span> and modern UI frameworks — blending solid logic with smooth user interactions.
             </p>
             <p className="text-sm sm:text-base text-gray-400 mb-6">

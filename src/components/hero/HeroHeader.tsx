@@ -32,7 +32,8 @@ export const HeroHeader = () => {
         </span>
       </h1>
       <p className="text-base sm:text-lg md:text-xl text-gray-300 mb-8 max-w-2xl">
-      Hey there! I’m a web developer crafting intuitive interfaces backed by smart backend logic. I bring ideas to life and keep growing with every project I build.
+      Hey there! I’m a software developer crafting intuitive web and mobile experiences, 
+      backed by smart backend logic. I bring ideas to life and keep growing with every project I build.
       </p>
       <div className="flex flex-wrap gap-4">
         <Button
