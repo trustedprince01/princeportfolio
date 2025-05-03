@@ -34,7 +34,7 @@ const projects = [
   {
     id: 3,
     title: "Banking Dashboard",
-    description: "Real-time weather forecasting with location-based services",
+    description: "Real-time banking dashboard for users to manage their finances",
     tags: ["React", "Tailwind CSS", "Html and css"],
     category: "Frontend",
     image:"/images/dashboard.png",
