@@ -12,9 +12,9 @@
     <meta name="keywords" content="full stack developer, react developer, typescript, web development, software engineer, frontend developer, backend developer" />
     <meta name="author" content="Prince Chibuzor" />
     
-    <!-- Favicon -->
-    <link rel="icon" type="image/png" href="/p.png">
-    <link rel="apple-touch-icon" href="/p.png">
+    <!-- Favicon with explicit dimensions -->
+    <link rel="icon" type="image/png" href="/p.png" sizes="32x32">
+    <link rel="apple-touch-icon" href="/p.png" sizes="180x180">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
@@ -38,6 +38,9 @@
     <!-- Theme Color -->
     <meta name="theme-color" content="#000000" />
     <meta name="msapplication-TileColor" content="#000000" />
+    
+    <!-- Add this before closing head tag -->
+    <link rel="preload" href="/p.png" as="image">
   </head>
   <body>
     <div id="root"></div>

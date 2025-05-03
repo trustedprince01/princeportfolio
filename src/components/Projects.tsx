@@ -166,6 +166,15 @@ const projects = [
     githubUrl: "https://github.com/trustedprince01/mealify_backend",
     demoUrl: "https://mealify-food-production.up.railway.app/" 
   },
+  { id: 16,
+    title: "Lnadtenats",
+    description: "LandTenants is a modern web application built to streamline communication and operations between landlords and tenants",
+    tags: ["React", "Type-script","Tailwinds"],
+    category: "Frontend", 
+    image: "/images/landtenants.png",
+    githubUrl: "https://github.com/trustedprince01/landtenants-frontend",
+    demoUrl: "https://landtenants.netlify.app/" 
+  },
 ];
 
 const categories = ["All", "Frontend", "Backend", "UI/UX"];
