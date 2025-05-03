@@ -167,7 +167,7 @@ const projects = [
     demoUrl: "https://mealify-food-production.up.railway.app/" 
   },
   { id: 16,
-    title: "Lnadtenats",
+    title: "Landtenats",
     description: "LandTenants is a modern web application built to streamline communication and operations between landlords and tenants",
     tags: ["React", "Type-script","Tailwinds"],
     category: "Frontend", 
