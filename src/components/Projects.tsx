@@ -175,6 +175,15 @@ const projects = [
     githubUrl: "https://github.com/trustedprince01/landtenants-frontend",
     demoUrl: "https://landtenants.netlify.app/" 
   },
+  { id: 17,
+    title: "SubTrackr",
+    description: "Track All Your Subscriptions, One Platform ",
+    tags: ["React", "Type-script","Tailwinds", "Django", "Railway"],
+    category: "Backend", 
+    image: "/images/subtacker.png",
+    githubUrl: "https://github.com/trustedprince01/subtracker_frontend",
+    demoUrl: "https://subtraker.netlify.app/" 
+  },
 ];
 
 const categories = ["All", "Frontend", "Backend", "UI/UX"];
