@@ -39,8 +39,8 @@ const Resume = () => {
                 <p className="text-blue-300">Developer</p>
               </div>
               <a
-                href="/Chibuzor%20Prince%20RESUME.pdf" // Path to the PDF file in the public folder
-                download="Chibuzor_Prince_Resume.pdf" // Optional: Specify the downloaded file name
+                //href="/Chibuzor%20Prince%20RESUME.pdf" 
+                //download="Chibuzor_Prince_Resume.pdf" 
                 className="bg-blue-600 hover:bg-blue-700 text-white text-sm w-full sm:w-auto flex items-center justify-center px-4 py-2 rounded"
               >
                 <Download className="mr-2 h-3 w-3 sm:h-4 sm:w-4" />
