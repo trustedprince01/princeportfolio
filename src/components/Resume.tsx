@@ -64,7 +64,7 @@ const Resume = () => {
                     <span className="text-blue-300 font-semibold text-sm sm:text-base">2023-2024</span>
                     <div>
                       <h4 className="font-bold text-sm sm:text-base">Advanced Diploma in Software Engineering</h4>
-                      <p className="text-blue-300 text-xs sm:text-sm">Aptech Computer Education, Lagos, NG</p>
+                      <p className="text-blue-300 text-xs sm:text-sm">Aptech Computer Education</p>
                       <ul className="list-disc pl-5 mt-2 text-xs sm:text-sm text-gray-300">
                         <li>Product Design: UI/UX principles, user research, Figma wireframing & prototyping</li>
                         <li>Frontend: HTML, CSS, JavaScript, React for responsive web applications</li>
