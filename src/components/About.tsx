@@ -35,7 +35,7 @@ const About = () => {
             className="overflow-hidden rounded-lg max-w-[350px] mx-auto md:mx-0 md:max-w-none md:ml-auto md:mr-0"
           >
             <img 
-              src="/images/me.jpg" 
+              src="/images/my-characty.png" 
               alt="Profile" 
               className="w-full aspect-square object-cover object-top"
             />
