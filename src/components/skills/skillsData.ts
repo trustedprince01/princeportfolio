@@ -17,7 +17,6 @@ export const skillsData: SkillsData = {
     { name: "JavaScript", level: 60 },
     { name: "HTML/CSS", level: 80 },
     { name: "Tailwind CSS", level: 70 },
-    { name: "Bootstrap", level: 75 },
     
   ],
   backend: [
@@ -29,7 +28,6 @@ export const skillsData: SkillsData = {
   ],
   other: [
     { name: "Git/GitHub", level: 70 },
-    { name: "Figma", level: 75 },
     { name: "Flutter", level: 70 },
     { name: "Netlify", level: 70 },
     { name: "Cloudinary", level: 75 },

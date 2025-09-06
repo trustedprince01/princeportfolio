@@ -84,12 +84,12 @@ export const techStack = [
   //   color: "text-purple-500",
   //   description: "CSS framework for responsive design"
   // },
-  {
-    name: "Figma",
-    icon: () => <img src="/images/figma.svg" alt="figma logo" className="h-10 w-10" />,
-    color: "text-purple-500",
-    description: "Designs responsive design"
-  },
+  // {
+  //   name: "Figma",
+  //   icon: () => <img src="/images/figma.svg" alt="figma logo" className="h-10 w-10" />,
+  //   color: "text-purple-500",
+  //   description: "Designs responsive design"
+  // },
 
   // Backend Development
   {
